@@ -58,7 +58,6 @@ class Home {
 
   render() {
     this.makeMain();
-
     const section = document.createElement("section");
     for (let i = 1; i <= 4; i++) {
       section.appendChild(this.makePart(i));
