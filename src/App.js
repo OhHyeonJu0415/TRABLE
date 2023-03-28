@@ -1,5 +1,6 @@
 import Routers from "./router/routers.js";
 import { setClickEvent } from "./component/setEvent.js";
+import Home from "./page/Home.js";
 
 class App {
   constructor($container) {
@@ -14,6 +15,7 @@ class App {
     }
     const routes = new Routers(this.$container);
     routes.render();
+    new Home(this.$container);
   }
 }
 
