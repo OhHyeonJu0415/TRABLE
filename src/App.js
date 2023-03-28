@@ -7,6 +7,7 @@ class App {
     this.$container = $container;
     this.render();
   }
+
   render() {
     const navbar = document.getElementsByClassName("nav");
 
@@ -16,6 +17,11 @@ class App {
     const routes = new Routers(this.$container);
     routes.render();
     new Home(this.$container);
+
+    // window.addEventListener("beforeunload", (event) => {
+    //   event.preventDefault();
+    //   event.returnValue = "";
+    // });
   }
 }
 

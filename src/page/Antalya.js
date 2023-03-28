@@ -1,4 +1,4 @@
-import { getImage } from "../component/getImage.js";
+import { imageRender } from "../component/getImage.js";
 
 class Antalya {
   constructor($container) {
@@ -10,20 +10,7 @@ class Antalya {
   }
 
   render() {
-    const root = document.createElement("div");
-    root.classList.add("turkeyContainer");
-
-    root.appendChild(getImage(0, "antalya", "A"));
-
-    root.appendChild(getImage(1, "antalya", "B"));
-
-    root.appendChild(getImage(2, "antalya", "C"));
-
-    for (let i = 3; i < 7; i++) {
-      root.appendChild(getImage(i, "antalya"));
-    }
-
-    this.$container.appendChild(root);
+    imageRender(7, "antalya", this.$container);
   }
 }
 
