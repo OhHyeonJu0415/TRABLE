@@ -10,6 +10,11 @@ class Pamukkale {
   }
 
   render() {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
     imageRender(7, "pamukkale", this.$container);
   }
 }

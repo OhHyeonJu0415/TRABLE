@@ -10,6 +10,11 @@ class Ankara {
   }
 
   render() {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
     imageRender(9, "ankara", this.$container);
   }
 }

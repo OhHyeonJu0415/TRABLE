@@ -10,6 +10,11 @@ class Cappadocia {
   }
 
   render() {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: "smooth",
+    });
     imageRender(10, "cappadocia", this.$container);
   }
 }
