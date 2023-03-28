@@ -302,7 +302,7 @@ article {
 .gridA {
   grid-area: a;
   background-position: 50% 10%;
-  filter: saturate(60%);
+  filter: saturate(0%);
 }
 
 .gridB {
