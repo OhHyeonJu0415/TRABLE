@@ -407,6 +407,10 @@ article {
 /* ~768px 모바일 */
 
 @media (width <=768px) {
+  header {
+    padding: 0 20px;
+  }
+
   .mainTitle {
     font-size: 9vw;
   }
@@ -427,6 +431,17 @@ article {
     grid-auto-rows: 35vh;
 
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  footer {
+    height: 80px;
+  }
+
+  .introduce1,
+  .introduce2,
+  .introduce3,
+  .introduce4 {
+    padding: 10vw 15vw;
   }
 }
 
