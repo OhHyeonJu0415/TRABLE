@@ -1,5 +1,4 @@
-const checkBox = document.getElementById("menu");
-
 export const setCheckBox = () => {
-  checkBox.checked = false;
+  const checkBox = document.getElementById("menu");
+  if (checkBox.checked) checkBox.checked = false;
 };
