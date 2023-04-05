@@ -1,4 +1,4 @@
-# [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/, "demo link") : 튀르키예 여행지 구경하기
+# [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/ "demo link") : 튀르키예 여행지 구경하기
 
 
 :link: TRAVLE : https://ohhyeonju0415.github.io/TRAVLE/
