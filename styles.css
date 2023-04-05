@@ -14,6 +14,11 @@ body {
 /*  1920px~1024px 데스크탑*/
 /* 데스트탑 우선 */
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 header {
   z-index: 10;
   position: absolute;
@@ -32,12 +37,12 @@ header > div {
   justify-content: space-between;
 }
 
-header > div > h1 {
+header > div > a > h1 {
   color: black;
   font-size: 2rem;
 }
 
-header > div > h1::first-letter {
+header > div > a > h1::first-letter {
   color: #fff;
   background-color: rgb(246, 111, 111);
   padding: 0 4px;
@@ -104,11 +109,6 @@ li {
   display: none;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
-
 .line {
   z-index: 9;
   position: absolute;
@@ -134,7 +134,7 @@ article {
   position: relative;
   width: 100vw;
   height: 100vh;
-  background-image: url("./images/main3.jpeg");
+  background-image: url("./images/main.png");
   background-position: 40% 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -186,13 +186,13 @@ article {
 .subPic1 {
   right: 0;
   width: 55%;
-  background-image: url("./images/ankara/ankara2.jpg");
+  background-image: url("./images/ankara/ankara2.png");
   background-position: 0% 100%;
 }
 
 .subPic2 {
   width: 45%;
-  background-image: url("./images/antalya/antalya1.jpg");
+  background-image: url("./images/antalya/antalya1.png");
   background-position: 60% 90%;
   left: 0;
 }
@@ -200,7 +200,7 @@ article {
 .subPic3 {
   right: 0;
   width: 55%;
-  background-image: url("./images/cappadocia/cappadocia2.jpg");
+  background-image: url("./images/cappadocia/cappadocia2.png");
   background-position: 20% 100%;
 }
 
@@ -208,7 +208,7 @@ article {
   left: 0;
   width: 45%;
   filter: saturate(150%);
-  background-image: url("./images/pamukkale/pamukkale2.jpg");
+  background-image: url("./images/pamukkale/pamukkale2.png");
   background-position: 0% 100%;
 }
 
@@ -321,8 +321,7 @@ article {
     height: 70px;
     padding: 0 40px;
   }
-  header > div > h1 {
-    display: inline;
+  header > div > a > h1 {
     font-size: 1.5rem;
     margin-left: 16px;
   }
@@ -429,7 +428,6 @@ article {
     row-gap: 3vw;
     column-gap: 3vw;
     grid-auto-rows: 35vh;
-
     grid-template-columns: repeat(1, 1fr);
   }
 
