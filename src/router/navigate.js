@@ -17,23 +17,23 @@ export function navigate(move, isReplace = false) {
 
 export const routes = [
   {
-    path: /^\/$/,
+    path: /^\/TRAVLE\/$/,
     element: Home,
   },
   {
-    path: /^\/Ankara$/,
+    path: /^\/TRAVLE\/Ankara$/,
     element: Ankara,
   },
   {
-    path: /^\/Antalya$/,
+    path: /^\/TRAVLE\/Antalya$/,
     element: Antalya,
   },
   {
-    path: /^\/Cappadocia$/,
+    path: /^\/TRAVLE\/Cappadocia$/,
     element: Cappadocia,
   },
   {
-    path: /^\/Pamukkale$/,
+    path: /^\/TRAVLE\/Pamukkale$/,
     element: Pamukkale,
   },
 ];
