@@ -1,4 +1,5 @@
 import { imageRender } from "../component/getImage.js";
+import { setCheckBox } from "../component/setCheckbox.js";
 
 class Pamukkale {
   constructor($container) {
@@ -10,6 +11,7 @@ class Pamukkale {
   }
 
   render() {
+    setCheckBox();
     window.scroll({
       top: 0,
       left: 0,

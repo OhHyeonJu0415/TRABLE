@@ -1,5 +1,6 @@
 import { introduce, path } from "../info/main.js";
 import { setClickEvent } from "../component/setEvent.js";
+import { setCheckBox } from "../component/setCheckbox.js";
 
 class Home {
   constructor($container) {
@@ -57,6 +58,7 @@ class Home {
   }
 
   render() {
+    setCheckBox();
     this.makeMain();
     const section = document.createElement("section");
     for (let i = 1; i <= 4; i++) {
