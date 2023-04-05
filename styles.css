@@ -302,7 +302,6 @@ article {
 .gridA {
   grid-area: a;
   background-position: 50% 10%;
-  filter: saturate(0%);
 }
 
 .gridB {
@@ -405,7 +404,7 @@ article {
 
 /* ~768px 모바일 */
 
-@media (width <=768px) {
+@media (width <768px) {
   header {
     padding: 0 20px;
   }
@@ -440,10 +439,6 @@ article {
   .introduce3,
   .introduce4 {
     padding: 10vw 15vw;
-  }
-
-  .gridA {
-    filter: saturate(100%);
   }
 }
 
