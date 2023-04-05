@@ -1,7 +1,7 @@
 import { navigate } from "../router/navigate.js";
 
 // const BASE_URL = "http://127.0.0.1:5500";
-const BASE_URL = "https://ohhyeonju0415.github.io/TRABLE";
+const BASE_URL = "https://ohhyeonju0415.github.io/TRAVLE";
 
 export const setClickEvent = (element) => {
   element.addEventListener("click", (e) => {
