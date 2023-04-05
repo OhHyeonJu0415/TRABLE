@@ -35,9 +35,9 @@ __순수 JS__
 
 ||모바일|태블릿|데스크탑|
 |---|---|---|---|
-|헤더|테스트1|테스트2|테스트3|
-|메인화면|테스트1|테스트2|테스트3|
-|도시화면|테스트1|테스트2|테스트3|
+|헤더 & 첫페이지|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230072245-f376fcce-8d4d-4478-9b93-ab134c40aa95.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230073579-a65a012c-4609-4b92-811d-ebfecf77afd6.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075551-b4ca000c-aeb9-457c-a26b-13aec7a823e5.PNG"/>|
+|메인화면|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074470-deafa248-10cf-4279-84c8-01f83c69efb1.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074474-935cf100-3f94-4bb0-ba6a-7fdd4997b651.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075572-834657c1-9960-4930-b81b-9c5af9ede508.PNG"/>|
+|도시화면|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076675-d58ca724-de8c-474b-a672-eda435ae8811.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076683-16a8c74e-ce30-4258-b3ad-89f652af9cc7.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076688-c2c7b414-ddc4-4d6e-aaee-9f2ef63f072e.PNG"/>|
 
 
 
