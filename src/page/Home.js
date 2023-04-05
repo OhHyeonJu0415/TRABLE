@@ -58,7 +58,7 @@ class Home {
   }
 
   render() {
-    setCheckBox();
+    //setCheckBox();
     this.makeMain();
     const section = document.createElement("section");
     for (let i = 1; i <= 4; i++) {

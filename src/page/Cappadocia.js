@@ -11,7 +11,7 @@ class Cappadocia {
   }
 
   render() {
-    setCheckBox();
+    //setCheckBox();
     window.scroll({
       top: 0,
       left: 0,
