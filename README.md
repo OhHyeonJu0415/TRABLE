@@ -15,10 +15,10 @@
 
 ## :triangular_flag_on_post: 프로젝트 설명
 * 튀르키예의 대표적인 관광지인 Ankara, Antalya, Cappadoica, Pamukkale에 대한 간략한 소개글과 사진을 통해 여행지를 구경할 수 있습니다.
-* 각 도시별로 카테고리가 제공되며 해당 도시 카테고리에서에서 사진 모음집을 볼 수 있습니다.
+* 각 도시별로 카테고리가 제공되며 해당 도시 카테고리에서 사진 모음집을 볼 수 있습니다.
 * 반응형 웹 사이트로 모바일, 태블릿, 데스크탑의 다양한 환경에서 사용자 디바이스에 맞는 화면을 제공합니다.
 * 프레임워크, 라이브러리 없이 
-__순수 CSS__
+__HTML, 순수 CSS__
 와 
 __순수 JS__
 만을 이용해 개발하였습니다.
@@ -94,7 +94,7 @@ __순수 JS__
 ---
 
 
-__:link: [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/, "demo link") 구경하기__
+__:link: [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/ "demo link") 구경하기__
 
 
 
