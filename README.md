@@ -1,4 +1,9 @@
 # [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/, "demo link") : 튀르키예 여행지 구경하기
+
+
+:link: TRAVLE : https://ohhyeonju0415.github.io/TRAVLE/
+
+
 ---
 
 
@@ -27,17 +32,28 @@ __순수 JS__
 
  
 
-## :books: 개발 언어
-* JavaScript
+## :books: 기술 스택
+### Environment
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+### Development
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+ 
+ 
 ---
 
-## 실행 화면
+## :tv: 실행 화면
+다른 페이지 클릭 시 URL은 변경되지만 새로 고침 없이 새로운 페이지를 렌더링 합니다.
+
 
 ||모바일|태블릿|데스크탑|
-|---|---|---|---|
-|헤더 & 첫페이지|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230072245-f376fcce-8d4d-4478-9b93-ab134c40aa95.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230073579-a65a012c-4609-4b92-811d-ebfecf77afd6.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075551-b4ca000c-aeb9-457c-a26b-13aec7a823e5.PNG"/>|
-|메인화면|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074470-deafa248-10cf-4279-84c8-01f83c69efb1.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074474-935cf100-3f94-4bb0-ba6a-7fdd4997b651.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075572-834657c1-9960-4930-b81b-9c5af9ede508.PNG"/>|
-|도시화면|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076675-d58ca724-de8c-474b-a672-eda435ae8811.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076683-16a8c74e-ce30-4258-b3ad-89f652af9cc7.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076688-c2c7b414-ddc4-4d6e-aaee-9f2ef63f072e.PNG"/>|
+|---|:---:|:---:|:---:|
+|__헤더__|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230072245-f376fcce-8d4d-4478-9b93-ab134c40aa95.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230073579-a65a012c-4609-4b92-811d-ebfecf77afd6.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075551-b4ca000c-aeb9-457c-a26b-13aec7a823e5.PNG"/>|
+||드롭다운 메뉴|드롭다운 메뉴|일렬로 정렬하여 나타냄|
+|__메인화면__|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074470-deafa248-10cf-4279-84c8-01f83c69efb1.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230074474-935cf100-3f94-4bb0-ba6a-7fdd4997b651.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230075572-834657c1-9960-4930-b81b-9c5af9ede508.PNG"/>|
+||소개글과 사진을 겹치면서 소개글 일부만 노출|소개글과 사진을 겹침|소개글과 사진을 양옆으로 배치|
+|__도시화면__|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076675-d58ca724-de8c-474b-a672-eda435ae8811.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230076683-16a8c74e-ce30-4258-b3ad-89f652af9cc7.PNG"/>|<img width="100%" src="https://user-images.githubusercontent.com/71424881/230083861-24742cdb-dff4-4422-8e14-cb0eb0c5ba86.PNG"/>|
+||_column 1_ 로 정렬|_column 2_ 로 정렬|_column 3_ 으로 정렬|
 
 
 
@@ -74,6 +90,11 @@ __순수 JS__
 ├── index.js
 └── styles.css
 ``` 
+
+---
+
+
+__:link: [TRAVLE](https://ohhyeonju0415.github.io/TRAVLE/, "demo link") 구경하기__
 
 
 
