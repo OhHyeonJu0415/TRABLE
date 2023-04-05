@@ -84,4 +84,9 @@ export const introduce = [
     </p>`,
 ];
 
-export const path = ["/Ankara", "/Antalya", "/Cappadocia", "/Pamukkale"];
+export const path = [
+  "/TRAVLE/Ankara",
+  "/TRAVLE/Antalya",
+  "/TRAVLE/Cappadocia",
+  "/TRAVLE/Pamukkale",
+];
