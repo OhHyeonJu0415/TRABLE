@@ -1,4 +1,4 @@
-const path = "TRAVLE/images/";
+const path = "TRAVEL/images/";
 
 export const getImage = (num, name, grid = "") => {
   const div = document.createElement("div");
